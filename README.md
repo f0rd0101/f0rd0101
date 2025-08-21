@@ -1,14 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Karina Hurzan
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nikita Ivashchenko
 =====================================================================================================================================
 
 Fullstack Developer
 ------------------
-
-I’m a Fullstack Developer with a solid foundation in HTML, CSS, JavaScript, and hands-on experience working with React.js and Node.js to build responsive, scalable, and user-focused web applications.
-Passionate about continuous learning, I stay up to date with modern development trends and constantly expand my skill set beyond core technologies — including tools like Redux Toolkit, TypeScript, and Express.
-Fluent in English at a C1 level, I’m confident in both technical communication and collaboration within international teams.
-I also have experience leading a team in a collaborative project, which helped me develop strong leadership and teamwork skills in a real-world environment.
-I’m excited about new opportunities and ready to take on meaningful challenges in fullstack development.
+I’m a Fullstack Developer with solid experience in PHP and Laravel, along with practical skills in Node.js, React.js, HTML, CSS, and JavaScript. I enjoy creating web applications that are scalable, maintainable, and user-friendly, working across both backend and frontend technologies.
+I’m passionate about learning and exploring new tools — from the Laravel ecosystem to modern frontend frameworks like React. I always try to grow my skills and experiment with new approaches.
+My English is at a B2 level, which lets me communicate clearly and collaborate smoothly with teammates. I really enjoy team projects, as they help me strengthen my problem-solving, collaboration, and project architecture skills.
+I’m excited to take on interesting projects and contribute as a Laravel Fullstack Developer.
 
 * 🌍  I'm based in Konotop, Ukraine
 * ✉️  You can contact me at [melancholic8078@gmail.com](mailto:melancholic8078@gmail.com)
