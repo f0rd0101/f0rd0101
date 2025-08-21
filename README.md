@@ -9,7 +9,7 @@ My English is at a B2 level, which lets me communicate clearly and collaborate s
 I’m excited to take on interesting projects and contribute as a Laravel Fullstack Developer.
 
 * 🌍  I'm based in Konotop, Ukraine
-* ✉️  You can contact me at [melancholic8078@gmail.com](mailto:melancholic8078@gmail.com)
+* ✉️  You can contact me at [ivashchenko8078@gmail.com](mailto:ivashchenko8078@gmail.com)
 * 🧠  I'm learning Laravel, Node.js
 * 🤝  I'm open to collaborating on interesting projects
 
