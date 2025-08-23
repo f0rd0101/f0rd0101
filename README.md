@@ -14,7 +14,6 @@ I’m excited to take on interesting projects and contribute as a Laravel Fullst
 * 🤝  I'm open to collaborating on interesting projects
 
 
-## 🛠 Skills
 
 ## 🛠 Skills
 
