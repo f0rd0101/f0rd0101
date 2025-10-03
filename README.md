@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Nikita Ivashchenko
 
-## Fullstack Developer <img src="https://i.gifer.com/1amw.gif" width="40" height="40" alt="Java" />
+## Fullstack Developer <img src="https://i.gifer.com/origin/7e/7e9fef7d176a7507c3a1f4a7eb3a60c2_w200.gif" width="40" height="40" alt="Java" />
 
 I’m a Fullstack Developer with solid experience in **PHP** and **Laravel**, along with practical skills in **Node.js**, **React.js**, **Vue.js**, **HTML**, **CSS**, and **JavaScript**.  
 I enjoy creating web applications that are **scalable, maintainable, and user-friendly**, working across both backend and frontend technologies.  
