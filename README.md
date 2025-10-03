@@ -11,10 +11,10 @@ My English is at **B2 level**, which lets me communicate clearly and collaborate
 
 I’m excited to take on interesting projects and contribute as a **Laravel Fullstack Developer**.
 
-- 🌍  I'm based in Konotop, Ukraine  
-- ✉️  Contact: [ivashchenko8078@gmail.com](mailto:ivashchenko8078@gmail.com)  
-- 🧠  Currently learning Laravel, Vue.js  
-- 🤝  Open to collaborate on interesting projects  
+- 🌍  I'm based in Konotop, Ukraine  
+- ✉️  Contact: [ivashchenko8078@gmail.com](mailto:ivashchenko8078@gmail.com)  
+- 🧠  Currently learning Laravel, Vue.js  
+- 🤝  Open to collaborate on interesting projects  
 
 ---
 
@@ -44,9 +44,9 @@ I’m excited to take on interesting projects and contribute as a **Laravel Full
 
 ### **Tools / IDE / OS**
 <p align="left">
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/intellij-colored.svg" width="36" height="36" alt="IntelliJ IDEA" title="IntelliJ IDEA"/></a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" width="36" height="36" alt="IntelliJ IDEA" title="IntelliJ IDEA"/></a>
   <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Eclipse_logo_2014.svg" width="36" height="36" alt="Eclipse" title="Eclipse"/></a>
-  <a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/apple-colored.svg" width="36" height="36" alt="macOS" title="macOS"/></a>
+  <a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" width="36" height="36" alt="macOS" title="macOS"/></a>
   <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a>
