@@ -43,12 +43,12 @@ I’m excited to take on interesting projects and contribute as a Laravel Fullst
 ### **Tools & Environment**
 <p align="left">
 <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/eclipse.svg" 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Eclipse_logo_2014.svg" 
        width="36" height="36" alt="Eclipse" title="Eclipse"/>
 </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a>
 <a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/apple-colored.svg" 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" 
        width="36" height="36" alt="macOS" title="macOS"/>
 </a>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/></a>
