@@ -1,6 +1,6 @@
-<h1 align="center">#Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Nikita Ivashchenko</h1>H
+<h1 align="center">Hi, fella! My name is Nikita Ivashchenko</h1>H
 
-## Fullstack Developer
+<h3 align="center">Java Developer <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" /></h3>
 
 I’m a Fullstack Developer with experience building applications using **Node.js** and **Laravel**.  
 Currently, I’m moving deeper into the **Java + Spring** ecosystem, aiming for enterprise-level development while keeping solid fullstack skills.  
