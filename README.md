@@ -12,40 +12,43 @@ My English is at **B2 level**, which helps me communicate effectively in team pr
 ---
 ## 🛠 Tech Stack
 
-<p style="display: inline-block;" align="center">
-  <kbd>
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+  <kbd style="padding:10px;">
     <kbd>Frontend</kbd>
     <br><br>
-    <img width="30px" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-    <img width="30px" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-    <img width="30px" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </kbd>
-  
-  <kbd>
+
+  <kbd style="padding:10px;">
     <kbd>Backend</kbd>
     <br><br>
-    <img width="30px" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
-    <img width="30px" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-    <img width="30px" src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   </kbd>
-  
-  <kbd>
+
+  <kbd style="padding:10px;">
     <kbd>Databases</kbd>
     <br><br>
-    <img width="30px" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
-    <img width="30px" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   </kbd>
-  
-  <kbd>
+
+  <kbd style="padding:10px;">
     <kbd>Tools / IDE / OS</kbd>
     <br><br>
-    <img width="30px" src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white" />
-    <img width="30px" src="https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white" />
-    <img width="30px" src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-    <img width="30px" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-    <img width="30px" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   </kbd>
+
 </p>
+
 
 
 
