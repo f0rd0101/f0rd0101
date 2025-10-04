@@ -8,7 +8,7 @@ I’m a Computer Science student with hands-on experience building applications 
  
 
 
-## 🛠 Tech Stack
+<h2 align="center">🛠 Tech Stack</h2>
 
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
@@ -25,6 +25,7 @@ I’m a Computer Science student with hands-on experience building applications 
     <br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" />
   </kbd>
 
   <kbd style="padding:10px;">
@@ -51,13 +52,6 @@ I’m a Computer Science student with hands-on experience building applications 
 
 
 
----
 
-## 🌐 Socials
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 10px;">
-  <a href="https://github.com/f0rd0101" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/nikita-ivashchenk0/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/></a>
-</div>
 
 ---
