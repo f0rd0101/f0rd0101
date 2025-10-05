@@ -24,7 +24,7 @@ I’m a Computer Science student with hands-on experience building applications 
     <kbd>Backend</kbd>
     <br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img width="30px" src="https://assets.streamlinehq.com/image/private/w_30,h_30,ar_1/f_auto/v1/icons/logos/spring-q72ycpnz5vsycm46gjfr.png/spring-o6ob2j4qv6818cwpi9754r.png?_a=DATAg1ceZAA0" alt="Spring Framework" />
+    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spring_Framework_Logo_2018.svg" alt="Spring Framework" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" />
   </kbd>
