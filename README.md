@@ -30,10 +30,11 @@ I’m a Computer Science student with hands-on experience building applications 
   </kbd>
 
   <kbd style="padding:10px;">
-    <kbd>Databases</kbd>
+    <kbd>Databases/ORM</kbd>
     <br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+   <img width="30px" src="https://www.svgrepo.com/show/354380/spring-icon.svg" alt="Spring Framework" />
   </kbd>
 
   <kbd style="padding:10px;">
