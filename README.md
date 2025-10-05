@@ -34,7 +34,7 @@ I’m a Computer Science student with hands-on experience building applications 
     <br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-   <img width="30px" src="https://www.svgrepo.com/show/354380/spring-icon.svg" alt="Spring Framework" />
+    <img width="30px" src="https://logo.svgcdn.com/l/hibernate.png" alt="Hibernate" />
   </kbd>
 
   <kbd style="padding:10px;">
