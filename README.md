@@ -7,7 +7,7 @@ I’m a Computer Science student with hands-on experience building applications 
 </p>
  
 <h2 align="center">Contact me:</h2>
-<a href="https://www.linkedin.com/in/nikita-ivashchenk0/"><img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&style=for-the-badge" alt="linkedin" title="Linkedin" /></a>
+<a align="center" href="https://www.linkedin.com/in/nikita-ivashchenk0/"><img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&style=for-the-badge" alt="linkedin" title="Linkedin" /></a>
 
 <h2 align="center">🛠 Tech Stack</h2>
 
