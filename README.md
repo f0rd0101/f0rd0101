@@ -1,9 +1,10 @@
 <h1 align="center">Hi, fella! My name is Nikita Ivashchenko <img src="https://i.pinimg.com/736x/7c/3b/c0/7c3bc081f39951d734d76c50c628237e.jpg" width="30" height="30" /></h1>
 
-<h3 align="center">
+<h3 style="display: flex; justify-content: center; align-items: center; gap: 8px;">
   C# Developer
-  <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/1200px-C_Sharp_Logo_2023.svg.png" alt="C# Logo" style="vertical-align: middle;" />
+  <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/1200px-C_Sharp_Logo_2023.svg.png" alt="C# Logo" />
 </h3>
+
 
 
 <p align="center">
