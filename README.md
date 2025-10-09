@@ -2,10 +2,7 @@
 
 <h3 style="display: flex; justify-content: center; align-items: center; gap: 8px;">
   C# Developer
-  <img width="30px" 
-       src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/1200px-C_Sharp_Logo_2023.svg.png" 
-       alt="C# Logo" 
-       style="display: block;" />
+ <img src="https://sanishtech.com/i/bL4UATIDPYH.png" alt="" border="0">
 </h3>
 
 
