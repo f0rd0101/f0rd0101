@@ -1,16 +1,10 @@
+
 <h1 align="center">Hi, fella! My name is Nikita Ivashchenko <img src="https://i.pinimg.com/736x/7c/3b/c0/7c3bc081f39951d734d76c50c628237e.jpg" width="30" height="30" /></h1>
 
-<h2 align="center"> C# Developer&nbsp;<img src="https://sanishtech.com/i/bL4UATIDPYH.png" width="20" /> </h2>
-
-
-
-
-
-
-
+<h3 align="center">Java Developer <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" /></h3>
 
 <p align="center">
-I’m a Computer Science student with hands-on experience building applications using Node.js and Laravel. Currently, I’m focusing on learning the C# + ASP.NET Core ecosystem, aiming to grow into enterprise-level development while maintaining my fullstack skills. I’m eager to apply my existing experience and expand my expertise in C#-based projects. My English is at B2 level, allowing me to communicate effectively.
+I’m a Computer Science student with hands-on experience building applications using Node.js and Laravel. Currently, I’m focusing on learning the Java + Spring ecosystem, aiming to grow into enterprise-level development while maintaining my fullstack skills. I’m eager to apply my existing experience and expand my expertise in Java-based projects. My English is at B2 level, allowing me to communicate effectively.
 </p>
  <div align="center">
 <h2 align="center">Contact me:</h2>
@@ -33,25 +27,29 @@ I’m a Computer Science student with hands-on experience building applications 
   <kbd style="padding:10px;">
     <kbd>Backend</kbd>
     <br><br>
- <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" />
-<img width="30px" src="https://www.smartsight.in/wp-content/uploads/2019/10/1200px-.NET_Core_Logo.svg_-300x300.png" alt="ASP.NET Core" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img width="30px" src="https://www.svgrepo.com/show/354380/spring-icon.svg" alt="Spring Framework" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" />
   </kbd>
 
   <kbd style="padding:10px;">
-    <kbd>Databases</kbd>
+    <kbd>Databases/ORM</kbd>
     <br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+    <img width="30px" src="https://logo.svgcdn.com/l/hibernate.png" alt="Hibernate" />
   </kbd>
 
   <kbd style="padding:10px;">
     <kbd>Tools / IDE / OS</kbd>
     <br><br>
-   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg" alt="Rider" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   </kbd>
 
 </p>
