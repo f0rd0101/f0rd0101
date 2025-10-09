@@ -1,9 +1,9 @@
 <h1 align="center">Hi, fella! My name is Nikita Ivashchenko <img src="https://i.pinimg.com/736x/7c/3b/c0/7c3bc081f39951d734d76c50c628237e.jpg" width="30" height="30" /></h1>
 
-<h3 align="center">
-  C# Developer
- <img src="https://sanishtech.com/i/bL4UATIDPYH.png" alt="" border="0" width="20" vertical-align:middle>
-</h3>
+<p align="center">
+  C# Developer&nbsp;<img src="https://sanishtech.com/i/bL4UATIDPYH.png" width="20" />
+</p>
+
 
 
 
