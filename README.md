@@ -2,7 +2,7 @@
 
 <h3 style="display: flex; justify-content: center; align-items: center; gap: 8px;">
   C# Developer
- <img src="https://sanishtech.com/i/bL4UATIDPYH.png" alt="" border="0" width="30">
+ <img src="https://sanishtech.com/i/bL4UATIDPYH.png" alt="" border="0" width="20">
 </h3>
 
 
