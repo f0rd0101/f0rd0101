@@ -1,5 +1,5 @@
   <p align="center">
-    <img src="icons8-c-sharp-logo-96.png" width="100" alt="C#" style="vertical-align: middle; margin-right: 10px; margin-bottom:0px;">
+    <img src="icons8-c-sharp-logo-96.png" width="100" alt="C#" style="vertical-align: middle; margin-right: 10px;">
   </p>
   <h1 align="center">
   <strong>Nikita Ivashchenko</strong>
