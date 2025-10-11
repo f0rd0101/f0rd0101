@@ -4,9 +4,10 @@
 </h1>
 
 <h2 align="center">
-  C# Developer&nbsp;
-  ![Logo](0b705b70-d53a-44c2-b33e-9251ece3b955.png)
+  C# Developer
+  <img src="0b705b70-d53a-44c2-b33e-9251ece3b955.png" width="30" height="30" />
 </h2>
+
 
 <p align="center">
   I’m a Computer Science student with hands-on experience building applications using Node.js and Laravel. 
