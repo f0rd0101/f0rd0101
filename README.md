@@ -27,8 +27,7 @@
 
   <h2>Contact me:</h2>
   <a href="https://www.linkedin.com/in/nikita-ivashchenk0/">
-  <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
-  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
   <a href="https://t.me/nickiv_22" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-8A2BE2?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram" /></a>
 
