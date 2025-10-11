@@ -1,7 +1,7 @@
 <h1 align="center" style="display: inline-block; margin: 0;">
   <span style="display: inline-flex; align-items: center; gap: 8px;">
     <strong>Nikita Ivashchenko</strong>
-    <img src="icons8-c-sharp-logo-96.png" width="38" height="20" alt="C#" style="margin: 0; vertical-align: middle;" />
+    <img src="icons8-c-sharp-logo-96.png" width="50"  alt="C#" style="margin: 0; vertical-align: middle;" />
   </span>
 </h1>
 
