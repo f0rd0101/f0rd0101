@@ -58,7 +58,6 @@
       <img width="30px" src="Windows-Logo-Clip-Art-Transparent-PNG.png" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-      
     </kbd>
   </p>
 </div>
