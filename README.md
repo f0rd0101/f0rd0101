@@ -1,7 +1,8 @@
-<h1 align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+<h1 align="center">
   Nikita Ivashchenko
-  <img src="icons8-c-sharp-logo-96.png" width="40" alt="C#" />
+  <img src="icons8-c-sharp-logo-96.png" width="40" alt="C#" style="vertical-align: middle; margin-left: 8px;" />
 </h1>
+
 
 <h3 align="center">C# Developer • ASP.NET Core • Entity Framework • REST API</h3>
 
