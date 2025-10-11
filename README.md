@@ -1,19 +1,10 @@
-<h1 align="center">
-  <table style="
-    border: 3px solid #8b3dff;
-    border-radius: 12px;
-    padding: 10px 20px;
-    border-collapse: separate;
-    border-spacing: 0;
-  ">
-    <tr>
-      <td style="padding: 8px 16px;"><strong>Nikita Ivashchenko</strong></td>
-      <td style="padding: 8px 10px;">
-        <img src="icons8-c-sharp-logo-96.png" width="40" alt="C#" />
-      </td>
-    </tr>
-  </table>
+<h1 align="center" style="display: inline-block; margin: 0;">
+  <span style="display: inline-flex; align-items: center; gap: 8px;">
+    <strong>Nikita Ivashchenko</strong>
+    <img src="icons8-c-sharp-logo-96.png" width="38" alt="C#" style="margin: 0; vertical-align: middle;" />
+  </span>
 </h1>
+
 
 
 
