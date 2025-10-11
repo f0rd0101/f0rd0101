@@ -1,12 +1,10 @@
 <h1 align="center">
-  Hi, fella! My name is Nikita Ivashchenko 
-  <img src="https://i.pinimg.com/736x/7c/3b/c0/7c3bc081f39951d734d76c50c628237e.jpg" width="30" height="30" />
+  Nikita Ivashchenko 
 </h1>
+<h3 align="center">C# Developer • ASP.NET Core • Entity Framework • REST API</h3>
+<img src="0b705b70-d53a-44c2-b33e-9251ece3b955.png" width="20" height="25" />
+</h3>
 
-<h2 align="center">
-  C# Developer
-  <img src="0b705b70-d53a-44c2-b33e-9251ece3b955.png" width="20" height="25" />
-</h2>
 
 
 <p align="center">
