@@ -1,5 +1,5 @@
 <h1 align="center">
-  Nikita Ivashchenko   <img src="icons8-c-sharp-logo-96.png" width="30"  />
+  Nikita Ivashchenko   <img src="icons8-c-sharp-logo-96.png" width="40"  />
 </h1>
 <h3 align="center">C# Developer • ASP.NET Core • Entity Framework • REST API</h3>
 
