@@ -30,8 +30,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
   <a href="https://t.me/nickiv_22" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-8A2BE2?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram" />
-  </a>
+    <img src="https://img.shields.io/badge/Telegram-8A2BE2?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram" /></a>
 
   <h2>🛠 Tech Stack</h2>
 
